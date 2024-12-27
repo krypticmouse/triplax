@@ -1,2 +1,1 @@
-# triplax
-Negative Mining Library in JAX
+# Triplax: A Simple Negative Mining Library
